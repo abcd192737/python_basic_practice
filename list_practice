@@ -1,0 +1,7 @@
+#list搭配for迴圈
+num_list = []
+for i in range (1,11,1) #將num_list的資料組從一儲存到十
+    num_list.extend([i]) #亦可寫作num_list +=[i]
+
+
+     
